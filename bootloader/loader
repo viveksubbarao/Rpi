@@ -1,0 +1,10 @@
+SECTIONS
+{
+        /* Starts at LOADER_ADDR. */
+	. = 0x8000;
+	_start = .;
+	.text : { *(.text*) }
+	.bss : { *(.bss*) }
+	_end = .;
+}
+
