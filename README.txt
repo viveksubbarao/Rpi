@@ -41,4 +41,4 @@ otherwise it might not work. I havent tested this properly though.
 Acknowledgements
 ===============
 David Welch dwelch@dwelch.com -- https://github.com/dwelch67/raspberrypi
-	All people who have contributed to this -- http://wiki.osdev.org/ARM_RaspberryPi_Tutorial_C
+All people who have contributed to this -- http://wiki.osdev.org/ARM_RaspberryPi_Tutorial_C
